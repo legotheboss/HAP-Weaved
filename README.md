@@ -16,7 +16,5 @@ You can use the following command to start the HAP Server:
   ```
 After starting the server, pair the Outlet with your iPhone via the Insteon+ app on the App Store: https://appsto.re/us/-oVY2.i 
 
-***Installation Instructions are in the Wiki!***
-
 Special thanks to [KhaosT](https://github.com/KhaosT), who created this server software, and  [Alex Skalozub](https://twitter.com/pieceofsummer), who reverse engineered the server side HAP. ~~You can find his research at [here](https://gist.github.com/pieceofsummer/13272bf76ac1d6b58a30).~~ (Sadly, on Nov 4, Apple sent the [DMCA](https://github.com/github/dmca/blob/master/2014-11-04-Apple.md) request to Github to remove the research.)
 
